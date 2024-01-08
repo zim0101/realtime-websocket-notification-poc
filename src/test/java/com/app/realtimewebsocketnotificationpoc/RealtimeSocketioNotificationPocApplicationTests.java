@@ -1,4 +1,4 @@
-package com.app.realtimesocketionotificationpoc;
+package com.app.realtimewebsocketnotificationpoc;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

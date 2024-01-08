@@ -1,7 +1,7 @@
-package com.app.realtimesocketionotificationpoc.security;
+package com.app.realtimewebsocketnotificationpoc.security;
 
-import com.app.realtimesocketionotificationpoc.model.Account;
-import com.app.realtimesocketionotificationpoc.repository.AccountRepository;
+import com.app.realtimewebsocketnotificationpoc.model.Account;
+import com.app.realtimewebsocketnotificationpoc.repository.AccountRepository;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

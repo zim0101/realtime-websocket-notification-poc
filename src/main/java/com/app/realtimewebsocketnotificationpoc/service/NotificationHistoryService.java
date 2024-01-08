@@ -1,9 +1,9 @@
-package com.app.realtimesocketionotificationpoc.service;
+package com.app.realtimewebsocketnotificationpoc.service;
 
-import com.app.realtimesocketionotificationpoc.model.Account;
-import com.app.realtimesocketionotificationpoc.model.NotificationHistory;
-import com.app.realtimesocketionotificationpoc.model.enums.NotificationType;
-import com.app.realtimesocketionotificationpoc.repository.NotificationHistoryRepository;
+import com.app.realtimewebsocketnotificationpoc.model.Account;
+import com.app.realtimewebsocketnotificationpoc.model.NotificationHistory;
+import com.app.realtimewebsocketnotificationpoc.model.enums.NotificationType;
+import com.app.realtimewebsocketnotificationpoc.repository.NotificationHistoryRepository;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 

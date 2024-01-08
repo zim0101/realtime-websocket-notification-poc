@@ -1,10 +1,7 @@
-package com.app.realtimesocketionotificationpoc.controller.auth;
+package com.app.realtimewebsocketnotificationpoc.controller.auth;
 
-import com.app.realtimesocketionotificationpoc.model.Account;
-import com.app.realtimesocketionotificationpoc.model.NotificationHistory;
-import com.app.realtimesocketionotificationpoc.model.enums.NotificationType;
-import com.app.realtimesocketionotificationpoc.service.AccountService;
-import com.app.realtimesocketionotificationpoc.service.NotificationSocketHandler;
+import com.app.realtimewebsocketnotificationpoc.model.Account;
+import com.app.realtimewebsocketnotificationpoc.service.AccountService;
 import jakarta.validation.Valid;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.propertyeditors.StringTrimmerEditor;

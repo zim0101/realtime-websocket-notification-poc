@@ -1,4 +1,4 @@
-package com.app.realtimesocketionotificationpoc.controller.auth;
+package com.app.realtimewebsocketnotificationpoc.controller.auth;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

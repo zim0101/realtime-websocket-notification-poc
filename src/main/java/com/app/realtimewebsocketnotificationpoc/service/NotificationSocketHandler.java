@@ -1,8 +1,7 @@
-package com.app.realtimesocketionotificationpoc.service;
+package com.app.realtimewebsocketnotificationpoc.service;
 
-import com.app.realtimesocketionotificationpoc.model.NotificationHistory;
+import com.app.realtimewebsocketnotificationpoc.model.NotificationHistory;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.messaging.simp.SimpMessageSendingOperations;
 import org.springframework.messaging.simp.SimpMessagingTemplate;
 import org.springframework.stereotype.Component;
 import org.springframework.web.socket.TextMessage;

@@ -1,6 +1,6 @@
-package com.app.realtimesocketionotificationpoc.model;
+package com.app.realtimewebsocketnotificationpoc.model;
 
-import com.app.realtimesocketionotificationpoc.model.enums.Role;
+import com.app.realtimewebsocketnotificationpoc.model.enums.Role;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotNull;

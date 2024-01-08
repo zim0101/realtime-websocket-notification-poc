@@ -1,4 +1,4 @@
-package com.app.realtimesocketionotificationpoc.security;
+package com.app.realtimewebsocketnotificationpoc.security;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;

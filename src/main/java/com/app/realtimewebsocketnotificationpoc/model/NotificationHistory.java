@@ -1,6 +1,6 @@
-package com.app.realtimesocketionotificationpoc.model;
+package com.app.realtimewebsocketnotificationpoc.model;
 
-import com.app.realtimesocketionotificationpoc.model.enums.NotificationType;
+import com.app.realtimewebsocketnotificationpoc.model.enums.NotificationType;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.Id;

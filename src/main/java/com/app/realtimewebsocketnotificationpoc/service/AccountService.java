@@ -1,8 +1,8 @@
-package com.app.realtimesocketionotificationpoc.service;
+package com.app.realtimewebsocketnotificationpoc.service;
 
-import com.app.realtimesocketionotificationpoc.model.Account;
-import com.app.realtimesocketionotificationpoc.model.enums.Role;
-import com.app.realtimesocketionotificationpoc.repository.AccountRepository;
+import com.app.realtimewebsocketnotificationpoc.model.Account;
+import com.app.realtimewebsocketnotificationpoc.model.enums.Role;
+import com.app.realtimewebsocketnotificationpoc.repository.AccountRepository;
 import jakarta.persistence.EntityNotFoundException;
 import jakarta.transaction.Transactional;
 import org.springframework.security.crypto.password.PasswordEncoder;
