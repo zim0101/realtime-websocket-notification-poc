@@ -10,6 +10,7 @@ This repository contains a proof-of-concept (POC) Spring Boot MVC application wi
 - Real-time notification updates displayed in Thymeleaf templates.
 
 ## Project Structure At A Glance
+```
 .
 ├── HELP.md
 ├── mvnw
@@ -67,5 +68,5 @@ This repository contains a proof-of-concept (POC) Spring Boot MVC application wi
 │               └── app
 │                   └── realtimewebsocketnotificationpoc
 │                       └── RealtimeSocketioNotificationPocApplicationTests.java
-
+```
 
