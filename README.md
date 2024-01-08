@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a proof-of-concept (POC) Spring Boot MVC application with Thymeleaf that demonstrates real-time notifications using WebSocket and Socket.IO. The application allows sending real-time notifications to an admin user when a new user registers.
+This repository contains a proof-of-concept (POC) Spring Boot MVC application with Thymeleaf that demonstrates real-time notifications using WebSocket. The application allows sending real-time notifications to all admin users when a new regular user registers.
 
 ## Features
 
